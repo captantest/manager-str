@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: node-app
+    ports:
+      - "7860:7860"
+    environment:
+      - NODE_ENV=production
+      - PORT=7860
+      - FRONTEND_PATH=/app
+    volumes:
+      - .:/app  # Monta il codice sorgente locale
+      - /app/node_modules  # Evita sovrascrittura node_modules
+    # Per sviluppo potresti anche voler cambiare il comando:
+    # command: ["npm", "start"]

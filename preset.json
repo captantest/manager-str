@@ -1,0 +1,30 @@
+{
+  "presets": {
+    "ita": [
+      "tmdb",
+      "torrentio",
+      "ilcorsaroviola",
+      "streamvix",
+      "opensubtitlesv3"
+    ]
+  },
+  "languages": {
+    "it": {
+      "tmdb": {
+        "transportUrl": "https://tmdb.elfhosted.com/N4IgTgDgJgRg1gUwJ4gFwgC4AYC0AzMBBHSWEAGnGhgFkEoBLAQwBUkIEBnNUCAe04YEYNBjABXBJQA2fAOZ80eJtM5SQMJgGM4UMHwhKVagL6UI+gG4MoCAJIBbWHahpMEhBRDSmAOzniTHKe6AwYOHYsXoKETA4M-mgA2iC+eAAeXmlwXgAWMA5eUL6GlHGlIEwYFRAOFVAcXloSIAC6lFpVKvLcqEmgNm4YTjAAdD5Cgl4Y7CEgDnzWnpS+cXMAMlVcGAAEAEoI0ghMatyUnLl8AO52vgASfA4hYpJmA67ow7CjYgi+jIlKDNGugFkssms3CxCP8EnJopcbvdHs8PG8QINPiMfgZprM3GCGMtUpD0AAFAziHwic6I24PJ6iNHkd5DbETbZ4kEgNRgIlnEmM9CbSa7A5HE5cBHXekopmvFkYj6YbG-WGAzD49C8-kQoUgaF-AHw2ky5FCl4IdGYlXfDC4oFannCXUrUkgCkQKlMGk8unm1EK1lY75IY6+4FzQnE1b6gCa4elSIZIWUqitiptXzGYZ9XLmOqlbvjidNyblqDTpkzyuz4z8ASCxMjBMWRL1GwbgWCSdlQqrGeDtrGPn83ebTsLAtjnbHTd7AaM6etypix3i-lGaUyju50Y7bgAcggMHhpAwd36zSn5YOlW413E4VuMvmHy6i4K5sfT+fLxdrwrS0VwfX4n03bI31BNsY3dH8zwvHYAGkbAFADywtZkh0fDc5BfHJdwLD9pzgk8EPSZDUIXG9UGAmtQNiXDRnyQpCNbcFizmO4ACEAHkdhoJh-39Gi6OwsCmJYqDnT5T8ZzcHj+ME4TAMwoN721CTn2KCoW2gjivzcAARBhOF8ZAAGpqKArCNJ5LTNx06SpwPdATLMyzrLUu8bRw59ymk-dOLcMk+SeHYADUbAQRQyz7QMfNXBy8ICtjtWI1yPTChBIui2KrwwhKQM0xj-OqQKYMygBBCAICOHYWAiqy4sXWjbN85LRiqXTJwy4L0Bquqcsa5qCvi29ivs0rN1qHq90q-qPR9OI+HEXwMFG9Dxra9SOumvDZucvrDPJZaFjWjavKK+iSvXbTGjS+YFpOkB3K0RZhCQTaRJs3akv20ZmnECqDPk9AAGEJF8LRciQfRpGkK6Jpuqa7sch7NW5FzFrej6wC+pGdsShi0bwoGjtkkj9UhtaYbhvgEcJ4D2hATpBHB1b1rQABWMsquCPYqjhW4AHE-kIXp3EkLw-iYGAjn5hBBYwOE3AHJNFeVuEAHUwlyRxYC1xJ0HV84xAYLQMAOOQGD4XwADEGGkIQRE+DwigYG2MBUcVjjUR3neEJdTCAA/manifest.json"
+      },
+      "ilcorsaroviola": {
+        "transportUrl": "https://ilcorsaroviola-icv.hf.space/manifest.json"
+      },
+      "streamvix": {
+        "transportUrl": "https://streamvix.hayd.uk/manifest.json"
+      },
+      "torrentio": {
+        "transportUrl": "https://torrentio.strem.fun/manifest.json"
+      },
+      "opensubtitlesv3": {
+        "transportUrl": "https://opensubtitles-v3.strem.io/manifest.json"
+      }
+    }
+  }
+}
